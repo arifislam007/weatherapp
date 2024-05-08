@@ -13,4 +13,4 @@ requests = "^2.31.0"
 
 [build-system]
 requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api
+build-backend = "poetry.core.masonry.api"
