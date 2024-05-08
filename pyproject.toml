@@ -1,16 +1,16 @@
-name = "leaflink-weather-app"
+[tool.poetry]
+name = "proj"
 version = "0.1.0"
 description = ""
-authors = ["Thomas Vendetta <thomas.vendetta@leaflink.com>"]
+authors = ["arifislam007 <islam.arif87@gmail.com>"]
 readme = "README.md"
-packages = [{include = "weather_app"}]
 
 [tool.poetry.dependencies]
-python = "^3.11"
-Flask = "^3.0.3"
+python = "^3.8"
+flask = "^3.0.3"
 requests = "^2.31.0"
 
 
 [build-system]
 requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+build-backend = "poetry.core.masonry.api
