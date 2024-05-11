@@ -23,4 +23,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: arifislam/myweather:latest  # Change to your Docker Hub username/repository
+        tags: scherron/myweather:latest  # Change to your Docker Hub username/repository
